@@ -1,9 +1,9 @@
 void main(){  
-  Clubs encode = Clubs();
+  Clubs xyz = Clubs();
   // Calling the 'event' method of the 'Clubs' class
-  encode.event();
+  xyz.event();
   // Calling the 'skills_earned' method from the 'College' class
-  print(encode.skills_earned());
+  print(xyz.skills_earned());
 
 }
 
