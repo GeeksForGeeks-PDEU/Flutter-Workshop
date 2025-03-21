@@ -1,6 +1,6 @@
 /// Dart Workshop
-/// Conducted on 21/12/2024
-/// By Encode App Development Team
+/// Conducted on 21/3/2025
+/// By GFG & GDG App Development Team
 
 void main() {
 
