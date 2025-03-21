@@ -7,8 +7,8 @@ void main(){
   double decimal = 0.5;
   print(decimal.ceil()); // Output: 1
 
-  String name = "ENCODE Fam";
-  print("Hey " + name); // Output: Hey ENCODE Fam
+  String name = "Flutter Fam";
+  print("Hey " + name); // Output: Hey Flutter Fam
 
   bool check = true;
   print(check); // Output: true
