@@ -7,7 +7,7 @@ void main(){
     print("Growable List: $list1");
 
     // Multiple Data types in a list: A list that can hold elements of different data types
-    List list2 = ["Encode", 1, "Best Coding club->", true, 11.0];
+    List list2 = ["GFG x GDG", 1, "Best Coding club->", true, 11.0];
     print("Multiple Datatypes in a Single List: $list2");
     
     //Fixed Size list: A list of fixed size, created using List.filled 
