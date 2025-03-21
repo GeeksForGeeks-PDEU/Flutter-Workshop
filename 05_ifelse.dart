@@ -19,7 +19,7 @@ void main(){
     print("You are eligible for voting.");
   }
 
-  dynamic word = "ENCODE";
+  dynamic word = "DART";
 
   if(word is! String){
     // If 'word' is not a string, print this message
