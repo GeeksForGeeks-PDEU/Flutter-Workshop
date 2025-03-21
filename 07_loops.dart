@@ -3,7 +3,7 @@ void main(){
   //For loop
   print("For loop");
 
-  String word = "ENCODE";
+  String word = "Flutter";
 
   for(int i=0; i<word.length ; i++){
     // Print each character of the word one by one
