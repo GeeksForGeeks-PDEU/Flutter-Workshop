@@ -3,8 +3,8 @@ void main(){
   // Creating an instance of the 'Club' class and calling the 'greetings' method
   Club("XYZ").greetings(); // Instance of Club
 
-  // Declaring a final instance of 'Club' with the name "Encode" and calling the 'greetings' method
-  final Club club = Club("Encode"); // Final Instance of Club 
+  // Declaring a final instance of 'Club' with the name "GFG x GDG" and calling the 'greetings' method
+  final Club club = Club("GFG x GDG"); // Final Instance of Club 
   club.greetings(); // Output: "Hey We are Encode."
 
   print(Club.get_count());
