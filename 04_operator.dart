@@ -11,8 +11,8 @@ void main(){
 
   String? word;
 
-  word = "EnCode";
-  print(word.length); // Output: 6 
+  word = "Dart";
+  print(word.length); // Output: 4
 
   word = null;
   
