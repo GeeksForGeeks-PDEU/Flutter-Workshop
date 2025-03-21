@@ -1,16 +1,16 @@
 void main(){
 
   // Creating an instance of President and calling the 'role' method
-  President president = President(name: "Anokhi");
+  President president = President(name: "Vidhi");
   president.role();
 
-  VicePresident vicepresident = VicePresident(name: "Saumya");
+  VicePresident vicepresident = VicePresident(name: "Devarsh");
   vicepresident.role();
 
-  TechincalLead technicallead = TechincalLead(name: "Dhyan");
+  TechincalLead technicallead = TechincalLead(name: "Mann");
   technicallead.role();
 
-  Executives treasurer = Treasurer(name: "Diya");
+  Executives treasurer = Treasurer(name: "XYZ");
   (treasurer as Treasurer).role();  // Casting Executives to Treasurer to access its 'role' method
 
 }
